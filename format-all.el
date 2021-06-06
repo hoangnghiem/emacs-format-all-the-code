@@ -172,6 +172,8 @@
     ("Vue" prettier)
     ("XML" html-tidy)
     ("YAML" prettier)
+    ("Svelte" prettier)
+    ("Conf" prettier)
 
     ("_Angular" prettier)
     ("_Flow" prettier)
